@@ -7,7 +7,9 @@ To remain distributed, Thothy is split into two main parts, SLAVES and MASTERS. 
 
 #Todo
 - Implement choice API (counts for servers/channels)
+- Ping <<<<<
 - Add amazing irc parsing
 - Add user tracking
 - Add smart command parsing
 - Figure out netsplits
+- `:calvino.freenode.net 421 Thothy-1 PONG=rfc1459 :Unknown command` da fuq?
